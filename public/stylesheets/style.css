@@ -1,8 +1,10 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+.card{
+    margin-top: 50px;
 }
-
-a {
-  color: #00B7FF;
+.card .clearfix .price{
+    font-size: large;
+    font-weight: bold ;
+    float: left;
+    padding-right: 120px;
+    padding-top: 10px;
 }
